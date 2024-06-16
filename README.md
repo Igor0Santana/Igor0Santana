@@ -2,7 +2,6 @@
 
 ![snake gif](https://github.com/Igor0Santana/Igor0Santana/blob/output/github-contribution-grid-snake-dark.svg)
 
-
 - 👽 Estudando C e C++
 
 <div style="display: inline_block"><br>
