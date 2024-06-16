@@ -1,4 +1,8 @@
 ## Eaee! Me chamo Igor
+
+![snake gif](https://github.com/Igor0Santana/Igor0Santana/blob/output/github-contribution-grid-snake.gif)
+
+
 - 👽 Estudando C e C++
 
 <div style="display: inline_block"><br>
